@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4fbc0adc14067dff3893ea34e943a6ed",
+    "revision": "8e9854da1668f5a3e24f3335aec23d56",
     "url": "/ra4w1_hmi_demo_app/index.html"
   },
   {
-    "revision": "ab0f2f0cf3f4f63a3872",
-    "url": "/ra4w1_hmi_demo_app/static/js/2.7e0eeafe.chunk.js"
+    "revision": "70866f240772b77202db",
+    "url": "/ra4w1_hmi_demo_app/static/js/2.c7e7d195.chunk.js"
   },
   {
     "revision": "6397acf4c5cafcd591a770ce33fc3e2f",
-    "url": "/ra4w1_hmi_demo_app/static/js/2.7e0eeafe.chunk.js.LICENSE.txt"
+    "url": "/ra4w1_hmi_demo_app/static/js/2.c7e7d195.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b3774d010cdad1798de",
-    "url": "/ra4w1_hmi_demo_app/static/js/main.ce39d152.chunk.js"
+    "revision": "cb2eb57cf6b1eb4c7902",
+    "url": "/ra4w1_hmi_demo_app/static/js/main.3af4fd91.chunk.js"
   },
   {
     "revision": "0bf0a7729814a80697c0",
@@ -24,12 +24,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ra4w1_hmi_demo_app/static/media/connect.b8a4479e.png"
   },
   {
-    "revision": "be44afbcb256e256dc0504537d64fbad",
-    "url": "/ra4w1_hmi_demo_app/static/media/electric_fun_stop.be44afbc.png"
+    "revision": "574b3f84131dd5e7c792c5c46be65199",
+    "url": "/ra4w1_hmi_demo_app/static/media/fun_high_speed.574b3f84.gif"
   },
   {
-    "revision": "451108d270d7170c338f87e93715b713",
-    "url": "/ra4w1_hmi_demo_app/static/media/electric_fun_swing.451108d2.gif"
+    "revision": "6db14f9c5b332d6092c01d788cb03d32",
+    "url": "/ra4w1_hmi_demo_app/static/media/fun_low_speed.6db14f9c.gif"
+  },
+  {
+    "revision": "4c6ce8de10f8f268bfdda40f1b714ce0",
+    "url": "/ra4w1_hmi_demo_app/static/media/fun_normal_speed.4c6ce8de.gif"
+  },
+  {
+    "revision": "be44afbcb256e256dc0504537d64fbad",
+    "url": "/ra4w1_hmi_demo_app/static/media/fun_stop.be44afbc.png"
+  },
+  {
+    "revision": "63c63f8277723e4088a92fd23ee87399",
+    "url": "/ra4w1_hmi_demo_app/static/media/fun_swing.63c63f82.gif"
   },
   {
     "revision": "3588c63660f9abd78fad0483f53183b6",
