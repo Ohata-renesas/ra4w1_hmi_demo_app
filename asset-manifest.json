@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/ra4w1_hmi_demo_app/static/js/main.6e7f04c0.chunk.js",
-    "main.js.map": "/ra4w1_hmi_demo_app/static/js/main.6e7f04c0.chunk.js.map",
+    "main.js": "/ra4w1_hmi_demo_app/static/js/main.9483c543.chunk.js",
+    "main.js.map": "/ra4w1_hmi_demo_app/static/js/main.9483c543.chunk.js.map",
     "runtime-main.js": "/ra4w1_hmi_demo_app/static/js/runtime-main.7d09c4aa.js",
     "runtime-main.js.map": "/ra4w1_hmi_demo_app/static/js/runtime-main.7d09c4aa.js.map",
     "static/js/2.06df37c0.chunk.js": "/ra4w1_hmi_demo_app/static/js/2.06df37c0.chunk.js",
     "static/js/2.06df37c0.chunk.js.map": "/ra4w1_hmi_demo_app/static/js/2.06df37c0.chunk.js.map",
     "index.html": "/ra4w1_hmi_demo_app/index.html",
-    "precache-manifest.374e0d1b53bb5f6af4850196c8795d27.js": "/ra4w1_hmi_demo_app/precache-manifest.374e0d1b53bb5f6af4850196c8795d27.js",
+    "precache-manifest.ac158590e981433276ff2148386acfaf.js": "/ra4w1_hmi_demo_app/precache-manifest.ac158590e981433276ff2148386acfaf.js",
     "service-worker.js": "/ra4w1_hmi_demo_app/service-worker.js",
     "static/js/2.06df37c0.chunk.js.LICENSE.txt": "/ra4w1_hmi_demo_app/static/js/2.06df37c0.chunk.js.LICENSE.txt",
     "static/media/connect.png": "/ra4w1_hmi_demo_app/static/media/connect.b8a4479e.png",
@@ -24,6 +24,6 @@
   "entrypoints": [
     "static/js/runtime-main.7d09c4aa.js",
     "static/js/2.06df37c0.chunk.js",
-    "static/js/main.6e7f04c0.chunk.js"
+    "static/js/main.9483c543.chunk.js"
   ]
 }
