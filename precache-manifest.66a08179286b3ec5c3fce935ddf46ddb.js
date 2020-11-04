@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbb0e6fb6762884f8b401a54141b578b",
+    "revision": "004dde70e6d6434a38dc1332b975451e",
     "url": "/ra4w1_hmi_demo_app/index.html"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ra4w1_hmi_demo_app/static/js/2.b9b9f469.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7be5b3a53e694da26260",
-    "url": "/ra4w1_hmi_demo_app/static/js/main.c6f68e1a.chunk.js"
+    "revision": "99e57b61d4d6c5483582",
+    "url": "/ra4w1_hmi_demo_app/static/js/main.f7727115.chunk.js"
   },
   {
     "revision": "0bf0a7729814a80697c0",
     "url": "/ra4w1_hmi_demo_app/static/js/runtime-main.7d09c4aa.js"
   },
   {
-    "revision": "b8a4479e9d92aa0b87ec0b414b2aadde",
-    "url": "/ra4w1_hmi_demo_app/static/media/connect.b8a4479e.png"
+    "revision": "a931d56706bbd9ff507d3b6db5b5df68",
+    "url": "/ra4w1_hmi_demo_app/static/media/connect.a931d567.png"
   },
   {
     "revision": "574b3f84131dd5e7c792c5c46be65199",
@@ -44,19 +44,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ra4w1_hmi_demo_app/static/media/fun_swing.63c63f82.gif"
   },
   {
-    "revision": "3588c63660f9abd78fad0483f53183b6",
-    "url": "/ra4w1_hmi_demo_app/static/media/indoor_environment.3588c636.png"
+    "revision": "42273ec0bebc6607ebb1d3fe22f7d6f2",
+    "url": "/ra4w1_hmi_demo_app/static/media/indoor_environment.42273ec0.png"
   },
   {
-    "revision": "6f62af6329c85620f351ef06972c0cae",
-    "url": "/ra4w1_hmi_demo_app/static/media/led_control.6f62af63.png"
+    "revision": "57eaa6ccddc1c3f7205e0372b9551111",
+    "url": "/ra4w1_hmi_demo_app/static/media/led_control.57eaa6cc.png"
   },
   {
-    "revision": "4b6fe806817ed3f30bc11bcca21a9819",
-    "url": "/ra4w1_hmi_demo_app/static/media/vr_result.4b6fe806.png"
+    "revision": "1d889375f77f70242e0f6bd4e6bee651",
+    "url": "/ra4w1_hmi_demo_app/static/media/vr_result.1d889375.png"
   },
   {
-    "revision": "ef163af4b5972ba1b7b4662dcff28fb7",
-    "url": "/ra4w1_hmi_demo_app/static/media/vr_settings.ef163af4.png"
+    "revision": "9a34a66c7e0f4aff64b440c2f89543f7",
+    "url": "/ra4w1_hmi_demo_app/static/media/vr_settings.9a34a66c.png"
   }
 ]);
