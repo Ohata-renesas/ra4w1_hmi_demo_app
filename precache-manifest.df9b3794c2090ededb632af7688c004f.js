@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "511f87974a5f5b12d860f46c88c1a0e1",
+    "revision": "b3273912f16ff06ac35e6c69ab487bb3",
     "url": "/ra4w1_hmi_demo_app/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ra4w1_hmi_demo_app/static/js/2.94e67263.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88d14b23abb009b0f50e",
-    "url": "/ra4w1_hmi_demo_app/static/js/main.a3cbe1ba.chunk.js"
+    "revision": "00cd8e5cbf589d3956cf",
+    "url": "/ra4w1_hmi_demo_app/static/js/main.a10d0b1d.chunk.js"
   },
   {
     "revision": "0bf0a7729814a80697c0",
