@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d4aa9c12b2aeacce2d4580fc4b505d5",
+    "revision": "35164ddf60d519c326584259bc1a118e",
     "url": "/ra4w1_hmi_demo_app/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ra4w1_hmi_demo_app/static/js/2.dd63596d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "27660bc12e9accadba07",
-    "url": "/ra4w1_hmi_demo_app/static/js/main.cf6c6b66.chunk.js"
+    "revision": "e1554e7e5076663aa713",
+    "url": "/ra4w1_hmi_demo_app/static/js/main.d207e6cf.chunk.js"
   },
   {
     "revision": "0bf0a7729814a80697c0",
@@ -25,23 +25,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "574b3f84131dd5e7c792c5c46be65199",
-    "url": "/ra4w1_hmi_demo_app/static/media/fun_high_speed.574b3f84.gif"
+    "url": "/ra4w1_hmi_demo_app/static/media/fan_high_speed.574b3f84.gif"
   },
   {
     "revision": "6db14f9c5b332d6092c01d788cb03d32",
-    "url": "/ra4w1_hmi_demo_app/static/media/fun_low_speed.6db14f9c.gif"
+    "url": "/ra4w1_hmi_demo_app/static/media/fan_low_speed.6db14f9c.gif"
   },
   {
     "revision": "4c6ce8de10f8f268bfdda40f1b714ce0",
-    "url": "/ra4w1_hmi_demo_app/static/media/fun_normal_speed.4c6ce8de.gif"
+    "url": "/ra4w1_hmi_demo_app/static/media/fan_normal_speed.4c6ce8de.gif"
   },
   {
     "revision": "be44afbcb256e256dc0504537d64fbad",
-    "url": "/ra4w1_hmi_demo_app/static/media/fun_stop.be44afbc.png"
+    "url": "/ra4w1_hmi_demo_app/static/media/fan_stop.be44afbc.png"
   },
   {
     "revision": "63c63f8277723e4088a92fd23ee87399",
-    "url": "/ra4w1_hmi_demo_app/static/media/fun_swing.63c63f82.gif"
+    "url": "/ra4w1_hmi_demo_app/static/media/fan_swing.63c63f82.gif"
   },
   {
     "revision": "42273ec0bebc6607ebb1d3fe22f7d6f2",

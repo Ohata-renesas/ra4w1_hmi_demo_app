@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/ra4w1_hmi_demo_app/static/js/main.cf6c6b66.chunk.js",
-    "main.js.map": "/ra4w1_hmi_demo_app/static/js/main.cf6c6b66.chunk.js.map",
+    "main.js": "/ra4w1_hmi_demo_app/static/js/main.d207e6cf.chunk.js",
+    "main.js.map": "/ra4w1_hmi_demo_app/static/js/main.d207e6cf.chunk.js.map",
     "runtime-main.js": "/ra4w1_hmi_demo_app/static/js/runtime-main.7d09c4aa.js",
     "runtime-main.js.map": "/ra4w1_hmi_demo_app/static/js/runtime-main.7d09c4aa.js.map",
     "static/js/2.dd63596d.chunk.js": "/ra4w1_hmi_demo_app/static/js/2.dd63596d.chunk.js",
     "static/js/2.dd63596d.chunk.js.map": "/ra4w1_hmi_demo_app/static/js/2.dd63596d.chunk.js.map",
     "index.html": "/ra4w1_hmi_demo_app/index.html",
-    "precache-manifest.41456882bc187dc88329739828d0fb29.js": "/ra4w1_hmi_demo_app/precache-manifest.41456882bc187dc88329739828d0fb29.js",
+    "precache-manifest.b934dfdedcb35d649f272ab2dd287ec1.js": "/ra4w1_hmi_demo_app/precache-manifest.b934dfdedcb35d649f272ab2dd287ec1.js",
     "service-worker.js": "/ra4w1_hmi_demo_app/service-worker.js",
     "static/js/2.dd63596d.chunk.js.LICENSE.txt": "/ra4w1_hmi_demo_app/static/js/2.dd63596d.chunk.js.LICENSE.txt",
     "static/media/connect.png": "/ra4w1_hmi_demo_app/static/media/connect.a931d567.png",
-    "static/media/fun_high_speed.gif": "/ra4w1_hmi_demo_app/static/media/fun_high_speed.574b3f84.gif",
-    "static/media/fun_low_speed.gif": "/ra4w1_hmi_demo_app/static/media/fun_low_speed.6db14f9c.gif",
-    "static/media/fun_normal_speed.gif": "/ra4w1_hmi_demo_app/static/media/fun_normal_speed.4c6ce8de.gif",
-    "static/media/fun_stop.png": "/ra4w1_hmi_demo_app/static/media/fun_stop.be44afbc.png",
-    "static/media/fun_swing.gif": "/ra4w1_hmi_demo_app/static/media/fun_swing.63c63f82.gif",
+    "static/media/fan_high_speed.gif": "/ra4w1_hmi_demo_app/static/media/fan_high_speed.574b3f84.gif",
+    "static/media/fan_low_speed.gif": "/ra4w1_hmi_demo_app/static/media/fan_low_speed.6db14f9c.gif",
+    "static/media/fan_normal_speed.gif": "/ra4w1_hmi_demo_app/static/media/fan_normal_speed.4c6ce8de.gif",
+    "static/media/fan_stop.png": "/ra4w1_hmi_demo_app/static/media/fan_stop.be44afbc.png",
+    "static/media/fan_swing.gif": "/ra4w1_hmi_demo_app/static/media/fan_swing.63c63f82.gif",
     "static/media/indoor_environment.png": "/ra4w1_hmi_demo_app/static/media/indoor_environment.42273ec0.png",
     "static/media/led_control.png": "/ra4w1_hmi_demo_app/static/media/led_control.57eaa6cc.png",
     "static/media/vr_result.png": "/ra4w1_hmi_demo_app/static/media/vr_result.1d889375.png",
@@ -24,6 +24,6 @@
   "entrypoints": [
     "static/js/runtime-main.7d09c4aa.js",
     "static/js/2.dd63596d.chunk.js",
-    "static/js/main.cf6c6b66.chunk.js"
+    "static/js/main.d207e6cf.chunk.js"
   ]
 }
